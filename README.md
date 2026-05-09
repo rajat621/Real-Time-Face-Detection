@@ -86,7 +86,7 @@ Follow these steps **exactly as written** — no technical knowledge required.
 
 ---
 
-## 🏗 How It Works (Non-Technical Explanation)
+## 🏗 How It Works 
 
 1. **Your Webcam** captures your face
 2. **Browser** sends the image to the backend server
